@@ -16,4 +16,11 @@ git config user.email wmsxwdsh@xxx.com
 人名词库：merge_pinyin.name.dict.yaml 
 ```
 
+
+## 3、M3U 国外电视台直播源
+
+```text
+m3u-wmsxwdsh.m3u
+```
+
 <br/>
