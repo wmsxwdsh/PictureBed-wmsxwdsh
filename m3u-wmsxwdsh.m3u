@@ -6,8 +6,8 @@ https://epg.pw/stream/01d813ea1cdbc5d427d95bf6de6499ae8eb0e5a11419793e32e739f0af
 #EXTINF:-1 tvg-name="TVBS" group-title="台灣", [TW] TVBS
 https://epg.pw/stream/06baf79b6e6515fa271791223499a2ecf53f1917f24c680bfa8a7539162cce76.m3u8
 
-#EXTINF:-1 tvg-name="CBS News Los Angeles" group-title="美国", [US] CBS Los Angeles
+#EXTINF:-1 tvg-name="CBS News Los Angeles" group-title="美国", [US cbs] Los Angeles
 http://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
-#EXTINF:-1 tvg-name="CBS News Chicago" group-title="美国", [US] CBS Chicago
+#EXTINF:-1 tvg-name="CBS News Chicago" group-title="美国", [US cbs] Chicago
 https://epg.pw/stream/6f563b5179c27372a6a5bb49b3ee48ada68f47b551e5d6b48edba3188b5a6d07.m3u8
 
