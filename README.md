@@ -1,26 +1,17 @@
 # paper-wmsxwdsh
 我的文件
 
-## 1、Git 配置不同的项目用不同的用户名
- -- [原文点击](https://juejin.cn/post/7037336261564039204)
-<br/>
 
-```bash
-git config user.name wmsxwdsh
-git config user.email wmsxwdsh@xxx.com
-```
+## 文件列表
 
-## 2、Rime 拼音词库拓展
+1、中国地图 wiki 链接
+<br>
+[china_map.jpg](https://zh.wikipedia.org/wiki/File:Stdmapchina4.gif)
+[china_map_zh-tw.png](https://zh.wikipedia.org/zh-cn/File:Map_of_PRC_with_province_names_zh-tw.svg)
 
-```text
-人名词库：merge_pinyin.name.dict.yaml 
-```
-
-
-## 3、M3U 国外电视台直播源
-
-```text
+2、M3U 国外电视台直播源
+<br>
 m3u-wmsxwdsh.m3u
-```
+
 
 <br/>
