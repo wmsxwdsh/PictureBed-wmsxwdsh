@@ -9,8 +9,8 @@
 [china_map_zh-tw.png](https://zh.wikipedia.org/zh-cn/File:Map_of_PRC_with_province_names_zh-tw.svg) <br>
 [中国地图2019自然资源部](https://github.com/wmsxwdsh/paper-wmsxwdsh/blob/main/mapChina/native_china_map.jpg) <br>
 
-2、M3U 国外电视台直播源 <br>
-m3u-wmsxwdsh.m3u <br>
+2、其他 <br>
+
 
 
 
